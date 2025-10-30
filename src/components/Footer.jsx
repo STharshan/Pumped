@@ -17,7 +17,7 @@ export default function Footer() {
             <img
               src="/logo.png" // replace with your actual logo path
               alt="FitNix"
-              className="w-36 h-12 object-contain"
+              className="w-36 h-17 object-contain"
             />
           </div>
           <p className="text-sm mb-6">
