@@ -34,7 +34,7 @@ const Navbar = () => {
           <img
             src="/logo.png"
             alt="RS Mobile Services Logo"
-            className="w-36 h-12 object-contain"
+            className="w-36 h-16 object-contain"
           />
         </div>
 
