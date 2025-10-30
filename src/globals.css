@@ -1,5 +1,5 @@
 :root {
-   --color-primary: white;
+   --color-primary: rgb(211, 4, 4);
 }
 
 .text-primary { color: var(--color-primary) !important; }
